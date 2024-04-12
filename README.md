@@ -6,11 +6,11 @@ I'm a fullstack JavaScript developer based in Göteborg, Sweden 🇸🇪
 
 ### Skills
 
-**Frontend Development:** `React` `Next.js` `TypeScript` `Tailwind` `Framer-Motion`
+**Frontend Development:** `JavaScript` `TypeScript` `React` `React Native` `Storybook` `Next.js` `Tailwind` `Framer-Motion`
  
 **Version Control:** `Git` `Bitbucket`
 
-**Backend Development:** `Node.js` `Python` `MongoDB` `mySQL`
+**Backend Development:** `Node.js` `Python` `Flask` `MongoDB` `mySQL`
 
 **Testing:** `Cypress` `Postman` `Jest`
 
