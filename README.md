@@ -6,6 +6,8 @@ I'm a fullstack JavaScript developer based in Göteborg, Sweden 🇸🇪
 
 ### Skills
 
+**UI/UX Design:** `Figma` `ProtoPie`
+
 **Frontend Development:** `JavaScript` `TypeScript` `React` `React Native` `Storybook` `Next.js` `Tailwind` `Framer-Motion`
  
 **Version Control:** `Git` `Bitbucket`
