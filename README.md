@@ -19,6 +19,9 @@ I'm a fullstack JavaScript developer based in Göteborg, Sweden 🇸🇪
 ### Contact
 
 - Send DM on [LinkedIn](https://www.linkedin.com/in/dagna-schmidt-90ba37207/)
+<br/>
+
+![](https://github-readme-stats.vercel.app/api/top-langs/?username=DagnaSchmidt&theme=tokyonight&hide_border=false&include_all_commits=true&count_private=false&layout=compact)<br/>
 
 ### Other stuff
   
